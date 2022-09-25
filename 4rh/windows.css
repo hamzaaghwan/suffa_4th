@@ -1,0 +1,376 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #180052;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.h1{
+    padding-top: 3rem;
+    padding-left: 3rem;
+    font-size: xxx-large;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+.user{
+    padding-top: 3rem;
+    padding-right: 3rem;
+    font-size: x-large;
+    display: flex;
+    
+}
+p{
+    padding-top: 20px;
+    padding-right: 3px;
+}
+.pic{
+    padding-top: 10px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7rem;
+    
+
+}
+.container{
+    /* border: 2px solid greenyellow; */
+    height: 26em;
+    /* width: 45rem; */
+    /* display: flex; */
+    
+}
+.row1{
+    display: flex;
+}
+.row2{
+    display: flex;
+}
+.row3{
+    display: flex;
+}
+
+
+
+.box1{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid red ; */
+    /* margin-left: 5px; */
+    margin-bottom: 5px;
+    background-color: #009cae;
+}
+.mail{
+    text-align: center;
+    padding-top: 10px;
+}
+.mail_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+
+
+.box2{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid rgb(0, 255, 42) ; */
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: #603cbb;
+}
+    .calender{
+        text-align: center;
+        padding-top: 10px;
+    }
+    .calender_p{
+        color: white;
+        padding: 10px 0px 0px 10px;
+    }
+    
+    
+    
+    .box3{
+        height: 100px;
+        width: 98px;
+        /* border:2px solid rgb(0, 162, 255) ; */
+        margin-left: 5px;
+        margin-bottom: 5px;
+        box-sizing: border-box;
+        background-color: #2775ec;
+    }
+    .internet{
+        text-align: center;
+    padding-top: 11px;
+}
+    .internet_p{
+    color: white;
+    padding: 13px 0px 0px 6px;
+    FONT-SIZE: 10px;
+}
+
+
+
+.box4{
+    height: 100px;
+    width: 97px;
+    /* border:2px solid rgb(255, 0, 170) ; */
+    margin-left: 5px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    background-color: #009f00;
+}
+    
+    .store{
+        text-align: center;
+        padding-top: 10px;
+    }
+    .store_p{
+        color: white;
+        padding: 10px 0px 0px 10px;
+    }
+
+
+#r_1box5{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Deserto_libico_-_Driving_-_panoramio.jpg/1920px-Deserto_libico_-_Driving_-_panoramio.jpg );
+}
+
+.box5{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid rgb(255, 153, 0) ; */
+    margin-left: 30px;
+    margin-bottom: 5px;
+    background-size: cover;
+}
+
+
+
+#r2_box1{
+    background-color: #db552d;
+}
+.people{
+    text-align: center;
+    padding-top: 10px;
+}
+.people_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+
+
+#r2_box2{
+    background-color: #0099ac;
+}
+
+.img{
+    text-align: center;
+    padding-top: 6px;
+}
+.img_p{
+    color: white;
+    padding: 0px 0px 0px 10px;
+}
+
+
+#r2_box3{
+    background-color: #93009b;
+}
+.map{
+    text-align: center;
+    padding-top: 10px;
+}
+.map_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+#r2_box4{
+    background-color: #0a59c2;
+}
+.cloud{
+    text-align: center;
+    padding-top: 0px;
+}
+.cloud_p{
+    color: white;
+    padding: 7px 0px 0px 7px;
+}
+
+#r2_box5{
+    background-color: #00889e;
+}
+.box{
+    text-align: center;
+    padding-top: 10px;
+}
+.box_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+
+
+
+         /* 3rd row */
+
+.bbox1{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid red ; */
+    /* margin-left: 5px; */
+    margin-bottom: 5px;
+    background-color: #a600ad;
+}
+.msg{
+    text-align: center;
+    padding-top: 10px;
+}
+.msg_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+
+.bbox2{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid rgb(0, 255, 42) ; */
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: #009f00;
+}
+.chart{
+    text-align: center;
+    padding-top: 10px;
+}
+.chart_p{
+    color: white;
+    padding: 10px 0px 0px 10px;
+}
+
+
+.bbox3{
+    height: 100px;
+    width: 200px;
+    /* border:2px solid rgb(0, 162, 255) ; */
+    margin-left: 5px;
+    margin-bottom: 5px;
+    background-color: #5736b1;
+}
+.cup{
+    text-align: center;
+    padding-top: 10px;
+}
+.cup_P{
+    color: white;
+    padding: 0px 0px 0px 10px;
+}
+
+
+
+.bbox4{
+    height: 100px;
+    width: 97px;
+    /* border:2px solid rgb(255, 0, 170) ; */
+    margin-left: 30px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    background-color: #008f00;
+}
+.game{
+    text-align: center;
+    padding-top: 10px;
+}
+.game_p{
+    color: white;
+    padding: 12px 0px 0px 9px;
+}
+
+.bbox5{
+    height: 100px;
+    width: 98px;
+    /* border:2px solid rgb(255, 153, 0) ; */
+    margin-left: 5px;
+    margin-bottom: 5px;
+    box-sizing: border-box;
+    background-color: #9d00a5;
+}
+.camera{
+    text-align: center;
+    padding-top: 11px;
+}
+.camera_p{
+    color: white;
+    padding: 10px 0px 0px 6px;
+}
+
+
+#r4_box1{
+    background-image: url(https://c1.peakpx.com/wallpaper/1015/760/909/daisy-flower-nature-spring-blossom-wallpaper-thumb.jpg);
+    background-size: cover;
+    background-position: center ;
+    background-repeat: no-repeat;
+}
+
+
+#r4_box2{
+    background-color: #2777ec;
+}
+.sun{
+    text-align: center;
+    padding-top: 10px;
+}
+.sun_p{
+    color: white;
+    padding: 0px 0px 0px 8px;
+}
+
+
+
+#r4_box3{
+    background-color: #bc1d49;
+}
+.news{
+    text-align: center;
+    padding-top: 10px;
+}
+.news_p{
+    color: white;
+    padding: 0px 0px 0px 8px;
+}
+
+
+
+#r4_box4{
+    background-color: #d34826;
+}
+.music{
+    text-align: center;
+    padding-top: 10px;
+}
+.music_p{
+    color: white;
+    padding: 6px 0px 0px 8px;
+}
+
+#r4_box5{
+    background-color: #bb1d48;
+}
+.video{
+    text-align: center;
+    padding-top: 11px;
+}
+.video_p{
+    color: white;
+    padding: 14px 0px 0px 8px;
+}
